@@ -69,3 +69,4 @@ void ACharacterMovement::SetupPlayerInputComponent(UInputComponent* PlayerInputC
 	PlayerInputComponent->BindAxis("MoveRight", this, &ACharacterMovement::MoveRight);
 }
 
+//
